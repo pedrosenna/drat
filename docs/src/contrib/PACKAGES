@@ -12,3 +12,10 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: splits
+Version: 1.0-20
+Depends: R (>= 3.0.0), ape, MASS, paran
+License: GPL (>= 2)
+MD5sum: a0568be6317b029e378a8ec3093f46ee
+NeedsCompilation: no
