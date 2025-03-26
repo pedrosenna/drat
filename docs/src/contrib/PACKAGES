@@ -1,21 +1,6 @@
-Package: bGMYC
-Version: 1.0.3
-Depends: R (>= 3.5.0), ape (>= 3.0)
-MD5sum: 2bd88eb4bca2884d7ea910a242e4f884
-NeedsCompilation: yes
-
 Package: drat
 Version: 0.1.8
 Depends: R (>= 3.2.0)
 Imports: utils
 Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
-MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
-NeedsCompilation: no
-
-Package: splits
-Version: 1.0-20
-Depends: R (>= 3.0.0), ape, MASS, paran
-License: GPL (>= 2)
-MD5sum: a0568be6317b029e378a8ec3093f46ee
-NeedsCompilation: no
